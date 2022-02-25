@@ -1,0 +1,8 @@
+title ==> Global attributes
+href
+src
+hidden ==> Global attributes
+charset
+class ==> Global attributes
+id ==> Global attributes
+type
